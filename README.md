@@ -1,6 +1,8 @@
-# Frontend Mentor - Easybank landing page
+# Easybank landing page
 
-This is a landing page for desktop.
+a landing page for desktop.
 I made it with HTML and CSS only.
 
-Check it out here https://ir-afn.github.io/easybank-frontend-mentor/
+check it out here https://ir-afn.github.io/easybank-frontend-mentor/
+
+thank you to [Frontend Mentor](https://www.frontendmentor.io/solutions) for their fun challenges!
