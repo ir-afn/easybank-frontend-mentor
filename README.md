@@ -1,4 +1,4 @@
-# Easybank landing page
+# easybank landing page
 
 a landing page for desktop.
 I made it with HTML and CSS only.
